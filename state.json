@@ -1,0 +1,77 @@
+{
+  "updated": "2026-10-27T13:05:06.056335",
+  "items": {
+    "item-dfe59e32-9165-463d-8eb3-c272106a7977": {
+      "name": "Spider Tv",
+      "value": 9550.0
+    },
+    "item-790509d9-dace-440e-8b55-7db3d027e2a5": {
+      "name": "Engineer Cameraman",
+      "value": 4500.0
+    },
+    "item-a9416d66-8418-44ff-8167-97a000fd579c": {
+      "name": "Chaos cameraman",
+      "value": 4000.0
+    },
+    "item-d8ad3743-f4dc-426e-bed4-03084ef2a7c0": {
+      "name": "executioner tv man",
+      "value": 3050.0
+    },
+    "item-37fbd20e-ea49-4819-9e8b-b957849d851a": {
+      "name": "upgraded Titan Cameraman",
+      "value": 2700.0
+    },
+    "item-132bc4d4-8f56-41f1-af41-0b58e3766ee2": {
+      "name": "Premium Pass",
+      "value": 2450.0
+    },
+    "item-b24a2c1c-0a0d-4dfd-9618-5da9ba24f3c7": {
+      "name": "headless tv man",
+      "value": 1550.0
+    },
+    "item-5908f437-c865-491d-bb52-8c1ebe2c2c6d": {
+      "name": "x2 candy",
+      "value": 1100.0
+    },
+    "item-ccae7b23-85f5-4475-992c-dce637c96e8a": {
+      "name": "2x Lucky",
+      "value": 1050.0
+    },
+    "item-af1071d9-2c90-44f0-acfe-f274d4cedccf": {
+      "name": "2x Money",
+      "value": 1050.0
+    },
+    "item-a8429e06-bd47-47f8-9c87-5223c76c085a": {
+      "name": "2X speed",
+      "value": 540.0
+    },
+    "item-d6149dd1-0fd2-44d6-a3b8-ed4054cc4826": {
+      "name": "Large Scientist Cameraman",
+      "value": 480.0
+    },
+    "item-04068dd0-60c9-4adf-a35a-2b2e38c75485": {
+      "name": "CinemaMan Titan",
+      "value": 430.0
+    },
+    "item-4fb06af9-eba5-4f66-803c-70ba75bb35ef": {
+      "name": "Jetpack Cameraman",
+      "value": 430.0
+    },
+    "item-bb2b1324-61a7-4561-9733-a3f069b54a5a": {
+      "name": "Tv woman",
+      "value": 430.0
+    },
+    "item-0e9e8fd1-b269-43c3-aee7-dc5796a94a00": {
+      "name": "Glitch plungerman",
+      "value": 285.0
+    },
+    "item-1ccfd4a7-b213-4331-bfb4-da5a8f3ef66b": {
+      "name": "large prototype titan",
+      "value": 285.0
+    },
+    "item-69b52c2e-2a90-45e4-ae00-0949d992b8a2": {
+      "name": "Upgraded Titan Speakerman",
+      "value": 250.0
+    }
+  }
+}
