@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:05:06.056335",
+  "updated": "2026-10-27T13:10:02.812143",
   "items": {
     "item-dfe59e32-9165-463d-8eb3-c272106a7977": {
       "name": "Spider Tv",
@@ -72,6 +72,70 @@
     "item-69b52c2e-2a90-45e4-ae00-0949d992b8a2": {
       "name": "Upgraded Titan Speakerman",
       "value": 250.0
+    },
+    "item-f98ef3bb-d077-4df1-aaa1-1fae85b110c1": {
+      "name": "videotaper titan",
+      "value": 240.0
+    },
+    "item-181adba0-35aa-4558-a7ea-11b2c009f442": {
+      "name": "Scientist Crate",
+      "value": 90.0
+    },
+    "item-a90d1f00-5fde-4077-92f5-657e0ca4494d": {
+      "name": "Spider Crate",
+      "value": 70.0
+    },
+    "item-be79a2b8-30c1-461e-952f-9bddb9d34416": {
+      "name": "Camera Repair Drone",
+      "value": 50.0
+    },
+    "item-5fbfd525-3890-4d54-9055-2e3e71e78720": {
+      "name": "Pumpkin Farmer",
+      "value": 50.0
+    },
+    "item-f92122a2-6b63-4f22-8b37-d95f6103615a": {
+      "name": "Scientist Cameraman",
+      "value": 35.0
+    },
+    "item-275ba5d1-1eac-4379-85f7-a30857eb70ab": {
+      "name": "dragon cameraman",
+      "value": 25.0
+    },
+    "item-cef59ca7-a13c-4dd1-a61f-93f8ff12edfa": {
+      "name": "Halloween Crate",
+      "value": 25.0
+    },
+    "item-2bf3c28e-9f77-476a-ad45-7f41fd62f129": {
+      "name": "Camera spider",
+      "value": 20.0
+    },
+    "item-4aaf0dda-f476-4f20-8108-a9f38f93e5a0": {
+      "name": "Woman Crate",
+      "value": 10.0
+    },
+    "item-0c1c8363-02c8-4d13-a11e-523d1e2b8ca5": {
+      "name": "SpeakerWoman",
+      "value": 8.0
+    },
+    "item-5bb4958f-f873-4156-9f4d-3e38589cd978": {
+      "name": "Laser Cameraman Car",
+      "value": 5.0
+    },
+    "item-595c8c2a-a3fb-40a2-a009-3bd7e181c7ce": {
+      "name": "Ninja Cameraman",
+      "value": 5.0
+    },
+    "item-3515f4d0-214d-4597-944d-cb9100f8cb39": {
+      "name": "Titan Cameraman",
+      "value": 5.0
+    },
+    "item-570aa986-3665-45dc-bf42-2203320bf5a1": {
+      "name": "Titan Speakerman",
+      "value": 5.0
+    },
+    "item-0d0f3698-7560-462a-9581-782172a8fc0c": {
+      "name": "Titan TV Man",
+      "value": 5.0
     }
   }
 }
