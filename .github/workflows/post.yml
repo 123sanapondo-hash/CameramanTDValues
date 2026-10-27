@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "30 10 * * *"
   workflow_dispatch:
+    inputs:
+      chat_id:
+        description: "Личный чат для ручного запроса (оставь пустым для обычного поста)"
+        required: false
+        default: ""
 
 permissions:
   contents: write
@@ -23,6 +28,7 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           USE_PLAYWRIGHT: "1"
+          CHAT_OVERRIDE: ${{ github.event.inputs.chat_id }}
         run: python bot.py --now
       - name: Save state
         run: |
