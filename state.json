@@ -1,17 +1,17 @@
 {
-  "updated": "2026-10-27T14:25:36.254630",
+  "updated": "2026-10-27T19:06:30.357301",
   "items": {
     "item-dfe59e32-9165-463d-8eb3-c272106a7977": {
       "name": "Spider Tv",
-      "value": 9550.0
+      "value": 9100.0
     },
     "item-790509d9-dace-440e-8b55-7db3d027e2a5": {
       "name": "Engineer Cameraman",
-      "value": 4500.0
+      "value": 4550.0
     },
     "item-a9416d66-8418-44ff-8167-97a000fd579c": {
       "name": "Chaos cameraman",
-      "value": 4000.0
+      "value": 3750.0
     },
     "item-d8ad3743-f4dc-426e-bed4-03084ef2a7c0": {
       "name": "executioner tv man",
@@ -19,7 +19,7 @@
     },
     "item-37fbd20e-ea49-4819-9e8b-b957849d851a": {
       "name": "upgraded Titan Cameraman",
-      "value": 2700.0
+      "value": 2875.0
     },
     "item-132bc4d4-8f56-41f1-af41-0b58e3766ee2": {
       "name": "Premium Pass",
@@ -47,11 +47,11 @@
     },
     "item-d6149dd1-0fd2-44d6-a3b8-ed4054cc4826": {
       "name": "Large Scientist Cameraman",
-      "value": 480.0
+      "value": 500.0
     },
     "item-04068dd0-60c9-4adf-a35a-2b2e38c75485": {
       "name": "CinemaMan Titan",
-      "value": 430.0
+      "value": 410.0
     },
     "item-4fb06af9-eba5-4f66-803c-70ba75bb35ef": {
       "name": "Jetpack Cameraman",
