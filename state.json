@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:10:02.812143",
+  "updated": "2026-10-27T14:25:36.254630",
   "items": {
     "item-dfe59e32-9165-463d-8eb3-c272106a7977": {
       "name": "Spider Tv",
@@ -15,7 +15,7 @@
     },
     "item-d8ad3743-f4dc-426e-bed4-03084ef2a7c0": {
       "name": "executioner tv man",
-      "value": 3050.0
+      "value": 2500.0
     },
     "item-37fbd20e-ea49-4819-9e8b-b957849d851a": {
       "name": "upgraded Titan Cameraman",
@@ -27,7 +27,7 @@
     },
     "item-b24a2c1c-0a0d-4dfd-9618-5da9ba24f3c7": {
       "name": "headless tv man",
-      "value": 1550.0
+      "value": 1100.0
     },
     "item-5908f437-c865-491d-bb52-8c1ebe2c2c6d": {
       "name": "x2 candy",
@@ -95,7 +95,7 @@
     },
     "item-f92122a2-6b63-4f22-8b37-d95f6103615a": {
       "name": "Scientist Cameraman",
-      "value": 35.0
+      "value": 45.0
     },
     "item-275ba5d1-1eac-4379-85f7-a30857eb70ab": {
       "name": "dragon cameraman",
