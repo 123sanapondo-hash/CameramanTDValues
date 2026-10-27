@@ -2,7 +2,7 @@ name: Daily post
 
 on:
   schedule:
-        - cron: "30 10 * * *"
+    - cron: "30 10 * * *"
   workflow_dispatch:
 
 permissions:
@@ -16,11 +16,13 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirements.txt playwright
+      - run: playwright install --with-deps chromium
       - name: Run bot
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
+          USE_PLAYWRIGHT: "1"
         run: python bot.py --now
       - name: Save state
         run: |
