@@ -1,0 +1,4 @@
+requests
+beautifulsoup4
+# Потрібно лише якщо USE_PLAYWRIGHT=1 (щоб бачити всі 47 предметів):
+# playwright
