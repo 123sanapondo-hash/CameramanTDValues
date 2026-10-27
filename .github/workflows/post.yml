@@ -29,8 +29,9 @@ jobs:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
           USE_PLAYWRIGHT: "1"
-          PUBLISH_URL: ${{ github.event.inputs.refresh == 'true' && secrets.PUBLISH_URL || '' }}
+          PUBLISH_URL: ${{ secrets.PUBLISH_URL }}
           PUBLISH_SECRET: ${{ secrets.PUBLISH_SECRET }}
+          REFRESH: ${{ github.event.inputs.refresh }}
         run: python bot.py --now
       - name: Save state
         run: |
